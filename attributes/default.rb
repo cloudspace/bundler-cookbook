@@ -1,0 +1,1 @@
+default['bundler']['app_path'] = false
